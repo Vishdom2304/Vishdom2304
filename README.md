@@ -22,7 +22,7 @@
        --> C++ , C , Javascript , Python <br>
        
 3) Technologies <br>
-       --> ReactJS, NodeJS, HTML, CSS, Bootstrap <br>
+       --> ReactJS, NodeJS, ExpressJS, MongoDB, HTML, CSS, Bootstrap <br>
        
 4) Tools <br>
        --> Git , Github , VS Code
