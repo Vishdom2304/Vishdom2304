@@ -3,8 +3,8 @@
 <hr>
 <h3>😎 About Me:- </h3>
 <ul>
-  <li>👨‍🎓 B.Tech - ECE'23 from IET Lucknow</li>
   <li>🔭 I am Currently Working as a Software Developer (Backend Heavy) at India Today Group.</li>
+  <li>👨‍🎓 B.Tech - ECE'23 from IET Lucknow</li>
   <li>💻 Competitive Programmer, Software Developer</li>
   <li>🤔 Strong Areas :- Data Structures & Algorithms</li>
   <li>🌱 Currently Working On :- MERN Stack </li>
