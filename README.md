@@ -4,13 +4,15 @@
 <h3>😎 About Me:- </h3>
 <ul>
   <li>👨‍🎓 B.Tech - ECE'23 from IET Lucknow</li>
-  <li>💻 Competitive Programmer, Web Developer</li>
+  <li>💻 Competitive Programmer, Software Developer</li>
   <li>🤔 Strong Areas :- Data Structures & Algorithms</li>
-  <li>🌱 Currently Learning :- MERN Stack </li>
-  <li>👯 Open to collaborations on Web Projects</li>
+  <li>🌱 Currently Working On :- MERN Stack </li>
+  <li>👯 Open to collaborations on Software Projects</li>
   <li>🎤 Singer and Guitarist</li>
   <li>📫 How to reach me: <a href="https://www.linkedin.com/in/vishwas-vijay-37b0971aa/">LinkedIn</a></li>
 </ul>
+
+💻 I am Currently Working as a Software Developer (Backend Heavy) at India Today Group.
 <hr>
 
 <h2>🛡️ Skills</h2>
@@ -22,10 +24,12 @@
        --> C++ , C , Javascript , Python <br>
        
 3) Technologies <br>
-       --> ReactJS, NodeJS, ExpressJS, MongoDB, HTML, CSS, Bootstrap <br>
+       --> NodeJS, ExpressJS, MongoDB, ReactJS, HTML, CSS, Bootstrap <br>
        
 4) Tools <br>
-       --> Git , Github , VS Code
+       --> Git , Github , VS Code, Jira
+
+
 <!--
 **Vishdom2304/Vishdom2304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
